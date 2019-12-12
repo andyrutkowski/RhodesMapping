@@ -9,3 +9,4 @@ number: 4000
 SimplyAnalytics provides access to a diverse range of data, from recent Census data to specialized marketing data.
 
 
+![Data for SimplyAnalytics](/assets/images/simply1.png)
