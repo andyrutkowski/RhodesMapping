@@ -1,2 +1,2 @@
 
-Documentation for Digital Mapping Ecosystems workshop.
+Documentation for an Introduction to Social Explorer, SimplyAnalytics, and PolicyMap workshop.
