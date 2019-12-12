@@ -7,6 +7,9 @@ number: 1000
 title: Introduction
 ---
 
-Welcome to Digital Mapping Ecosystems! This workshop is both an introduction to critical cartography practices and a hands-on tutorial that will guide you throught the process of creating and sharing a digital mapping project. This site provides complete documentation for the workshop.
+Welcome to an Introduction to SimplyAnalytics, Social Explorer, and PolicyMap.  
 
-This workshop is a work in progress and the site will be updated accordingly. 
+This workshop is a hands-on introduction to three subscription library databases that feature access to data and the ability to create simple and effective maps. 
+
+
+
