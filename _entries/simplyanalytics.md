@@ -6,7 +6,11 @@ title: SimplyAnalytics
 number: 4000
 ---
 
-SimplyAnalytics provides access to a diverse range of data, from recent Census data to specialized marketing data.
+SimplyAnalytics provides access to a diverse range of data, from recent Census data to specialized marketing data.  
+
+What is unique about this database?  
+
+Marketing data - especially SimmonsLOCAL, data projections, and ability to map business locations.
 
 
 <style>
