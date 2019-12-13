@@ -6,6 +6,12 @@ title: PolicyMap
 number: 6000
 ---
 
+PolicyMap sits somewhere in between SocialExplorer and SimplyMap in terms of the data it provides. Beyond basic Census data PolicyMap has access to hundreds of data points from government and other agencies.  
+
+What is unique about PolicyMap?  
+
+Access to data that is specifically oriented by policy issues. 
+
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
