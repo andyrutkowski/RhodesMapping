@@ -1,25 +1,18 @@
 ---
-sectionid: What makes a good project? 
+sectionid: Spatial Thinking 
 sectionclass: h1
 is-parent: yes
-title: What makes a good project?
+title: Spatial Thinking
 number: 2000
 ---
 
-What makes for a good project? 
+Think about someplace in Los Angeles that you would like to learn more about. Now think about some questions that you would like to explore. Chances are that one or more of these databases will help you begin the process of answering that question.  
 
-Good projects are meaningful and impactful. They make you stop and ask questions. A digital project provides a way to directly communicate that meaning and impact.
+In particular, these databases help to make visible data about people and places through themetic maps. Maps that tell you something about a place.
 
-Two model projects that have helped to inform this workshop are South Carolina's Green Book project and the Digital Scholarship Lab at the University of Richmond American Panorama project:
+![Basics of a chlorepleth map](https://raw.githubusercontent.com/vkcworkshops/introdb/gh-pages/img/maps1.png)
 
-[Green Book project](https://delphi.tcl.sc.edu/library/digital/collections/greenbook.html)
+They generally show this information by displaying data within certain geographic boundaries - country, state, county, census tract, etc. The way that the data is gathered and prepared determines whether or not it can be shared at certain geographic levels. For most research, it is ideal to get the smallest geographic unit available in order to most accurately describe the relationship between the data and the place. Census tracts typically provide a good starting point but with some data it will not be available.  
 
-[American Panorama Project](https://dsl.richmond.edu/panorama/)
+As you move forward through your research take the time to learn as much as you can about your data. Each database provides ways for you to learn more about how the data was gathered and why it was gathered.
 
-These two projects take existing archival materials, process them so they can be made accessible online, and do so in a seamless way so that individuals can interact, learn, and ask questions through them. 
-
-We will use these projects as starting points and attempt to recreate them on a local level.
-
-For this example project we want to learn more about the history of Los Angeles through the lens of the GreenBook. We will use data that will create points for where Greenbook establishments existed, boundaries from the Homeowner's Loan Corporation, current neigbhorhood boundaries, and an image overlay of historical maps including the HOLC map. This data provides a great introduction to different types of geospatial data and important geospatial processes including geocoding, georeferencing, and spatial joins. 
-
-Through these datasets we will create a digital project that will let us explore Los Angeles and provide opportunities for meaningful engagement, interpretation, discovery, and critical thinking. Moreover, the project is replicable and can be adapted to other cities and communities. 
