@@ -1,5 +1,5 @@
 ---
-sectionid: carto 
+sectionid: SimplyAnalytics
 sectionclass: h1
 is-parent: yes
 title: SimplyAnalytics
