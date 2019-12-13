@@ -8,9 +8,9 @@ number: 2000
 
 Think about someplace in Los Angeles that you would like to learn more about. Now think about some questions that you would like to explore. Chances are that one or more of these databases will help you begin the process of answering that question.  
 
-In particular, these databases help to make visible data about people and places through themetic maps. Maps that tell you something about a place through visually representing information.  
+In particular, these databases help to make visible data about people and places through themetic maps. Themetic maps that tell you something about a place through visually representing information.  
 
-This series of images shows the very basics of how these maps are created. Data is gathered, space is broken-up by boundaries, data is prepared so that it can be read by machines/software, and then finally a visual representation is rendered by assigning color values to corresponding numeric values.
+This series of images shows the very basics of how a chloropleth map is made. This is one of the most popular types of thematic maps made. Data is gathered, space is broken-up into boundaries, data is prepared so that it can be read by machines/software, and then finally a visual representation is rendered by assigning color values to corresponding numeric values within each assigned boundary.
 
 ![Basics of a chlorepleth map](https://raw.githubusercontent.com/vkcworkshops/introdb/gh-pages/img/maps1.png)
 Source: https://www.teachingideas.co.uk/maps-and-atlases/how-to-make-a-choropleth-map
