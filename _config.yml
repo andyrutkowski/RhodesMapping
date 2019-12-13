@@ -1,7 +1,7 @@
 full_rebuild: true
-name: Introduction to SimplyAnalytics, Social Explorer, and PolicyMap
+name: Introduction to Basic Mapping
 author: Andy Rutkowski
-version: V 1.0
+version: 
 encoding: utf-8
 defaults:
   -
