@@ -12,8 +12,7 @@ What is unique about this database?
 
 Marketing data - especially SimmonsLOCAL, data projections, and ability to map business locations.  
 
-
-
+<br>
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
@@ -23,12 +22,6 @@ Marketing data - especially SimmonsLOCAL, data projections, and ability to map b
 <!-- Google embed ends -->
 </div> 
 
-
-
-
-
-
-
-.
+<br>
 
 
