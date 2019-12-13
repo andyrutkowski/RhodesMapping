@@ -6,6 +6,8 @@ title: Social Explorer
 number: 5000
 ---
 
+Social Explorer is most well known for providing access to the Census, both current and historical. In fact, Social Explorer allows you to go back and look at data from 1790. Because of this it is a great tool for learning more about the history of the United States Census as you can easily see what variables are recorded each year. 
+
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
