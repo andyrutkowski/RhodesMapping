@@ -4,7 +4,7 @@ sectionclass: h1
 is-parent: yes
 title: Introduction
 number: 1000
-title: What is Humanitarian Mapping and Open Data?
+title: Introduction
 ---
 
 Humanitarian Mapping and Open Data:   
